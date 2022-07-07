@@ -14,3 +14,4 @@ It displays a basci clickaable button and on press of a button you got your meda
 **After the button is clicked you got your medal**
 
 
+![star-trophy](https://user-images.githubusercontent.com/86045021/177803281-1ecf42e8-a78a-42bf-874c-c836b1d4e06c.png)
